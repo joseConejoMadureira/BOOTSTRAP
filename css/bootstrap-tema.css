@@ -1,0 +1,28 @@
+.jumbotron {
+  background-image: url(../img/vitrine.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+.social a {
+  display: block;
+  width: 36px;
+  height: 36px;
+  text-indent: -9999px;
+  
+}
+
+.social li {
+  display: inline-block;
+  margin-left: 1em;
+}
+.social a[href='https://www.linkedin.com/in/jos%C3%A9-antonio-conejo-madureira-785989230/'] {
+  background: url(../img/icone-linkedin.png);
+  background-size: 36px 36px
+}
+
+.social a[href='https://github.com/joseConejoMadureira'] {
+  background: url(../img/icone-github.png);
+  background-size: 36px 36px
+}
+
