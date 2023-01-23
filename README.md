@@ -11,7 +11,7 @@
 
 ![02](https://github.com/joseConejoMadureira/bootstrap/blob/a2b543c950c33211e8e3aa8580c9d32617ab178b/preview/02.png)
 
-![03](https://github.com/joseConejoMadureira/bootstrap/blob/4ddfdd24483ac88f443e292326c0220ef86d10b4/preview/03.png)
+![03](https://github.com/joseConejoMadureira/bootstrap/blob/cb9ce6df4ea50e64f1534d2f48c72800317292f6/preview/03.png)
 
 ![04](https://github.com/joseConejoMadureira/bootstrap/blob/4ddfdd24483ac88f443e292326c0220ef86d10b4/preview/04.png)
 
